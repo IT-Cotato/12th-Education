@@ -1,4 +1,4 @@
-# 11th-education
+# 12th-education
 
 IT 연합동아리 '코테이토' 12기 교육팀 발표 자료 폴더입니다.
 
