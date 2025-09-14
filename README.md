@@ -13,21 +13,21 @@ IT 연합동아리 '코테이토' 12기 교육팀 발표 자료 폴더입니다.
 
 # Members
 
-| <img src="https://github.com/kimminna.png" width=120/> | <img src="https://github.com/DandelionQZ.png" width=120/> | <img src="https://github.com/JiiminHa.png" width=120 /> |
-| :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: |
-|         [김민아](https://github.com/kimminna)          |         [양희정](https://github.com/DandelionQZ)         |          [하지민](https://github.com/JiiminHa)          |
-|                    [ 11기 FE ] 교육팀장                    |                   [ 11기 FE ] 교육팀장                   |                  [ 11기 FE ] 교육팀장                  |
+| <img src="https://github.com/kimminna.png" width=120/> | <img src="https://github.com/DandelionQZ.png" width=120/> | <img src="https://github.com/JiiminHa.png" width=120 /> | <img src="https://github.com/kangcheolung.png" width=120 /> | <img src="https://github.com/hyunj24.png" width=120 /> | <img src="https://github.com/JikkeunWoo.png" width=120 /> |
+| :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| [김민아](https://github.com/kimminna) | [양희정](https://github.com/DandelionQZ) | [하지민](https://github.com/JiiminHa) | [강철웅](https://github.com/kangcheolung) | [박현정](https://github.com/hyunj24) | [우재원](https://github.com/JikkeunWoo) |
+| [ 11기 FE ] 교육팀장 | [ 11기 FE ] 교육팀장 | [ 11기 FE ] 교육팀장 | [ 12기 BE ] 교육팀원 | [ 12기 BE ] 교육팀원 | [ 12기 PM ] 교육팀원 |
 
 # What we Studied
 
 |       |     주제      | 발표자 |       날짜       |
 | :---: | :-----------: | :----- | :--------------: |
-| 1주차 | Git | 운영진 | 2025년 9월 5일 |
-| 2주차 | 미정 | 미정 | 2025년 9월 19일 |
-| 3주차 | 미정 | 미정 | 2025년 9월 26일 |
-| 4주차 | 미정 | 미정 | 2025년 10월 31일 |
+| 1주차 | Git | 양희정 | 2025년 9월 5일 |
+| 2주차 | Agile | 하지민 | 2025년 9월 19일 |
+| 3주차 | 미정 | 미정 | 2025년 10월 31일 |
+| 4주차 | 미정 | 미정 | 2025년 11월 7일 |
 | 5주차 | 미정 | 미정 | 2025년 11월 14일 |
-| 6주차 | 미정 | 미정 | 2025년 12월 26일 |
+| 6주차 | 미정 | 김민아 | 2025년 12월 26일 |
 | 7주차 | 미정 | 미정 | 2026년 1월 46일 |
 | 8주차 | 미정 | 미정 | 2026년 1월 30일 |
 | 9주차 | 미정 | 미정 | 2026년 2월 6일 |
@@ -37,7 +37,7 @@ IT 연합동아리 '코테이토' 12기 교육팀 발표 자료 폴더입니다.
 
 - 발표자는 발표전 주 수요일 정기 회의때 주제를 선정해 팀원들에게 안내한다.
 - 발표자는 발표주차 화요일 18시까지 발표자료 초안, 대본을 팀원들에게 필수로 공유한다.
-- 교육팀원들은 매주 수요일 회의전까지 발표자료를 검토하고, 관련된 CS퀴즈 각각 3문제씩 제작한다.
+- 교육팀원들은 매주 수요일 회의전까지 발표자료를 검토하고, 관련된 CS퀴즈 각각 2-3문제씩 제작한다.
 - 매주 수요일 정규회의때 CS퀴즈 10문제를 선정한다.
 
 # Directory Structure
